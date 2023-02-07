@@ -1,3 +1,2 @@
 # Deployed at
-https://work-place.vercel.app/
-Gauri
+https://dynamic-melba-ecfcb2.netlify.app/
